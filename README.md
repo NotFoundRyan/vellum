@@ -4,6 +4,11 @@
 
 ![页面展示](https://raw.githubusercontent.com/NotFoundRyan/vellum/main/docs/pics/Page-Display.png)
 
+## 下载
+
+### Windows
+- [素笺 Setup 1.0.0.exe](https://github.com/NotFoundRyan/vellum/releases/download/v1.0.0/素笺 Setup 1.0.0.exe)
+
 ## 功能特色
 
 - **实时预览** - 左侧编辑，右侧即时渲染，所见即所得

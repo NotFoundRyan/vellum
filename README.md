@@ -7,7 +7,7 @@
 ## 下载
 
 ### Windows
-- [素笺 Setup 1.0.0.exe](https://github.com/NotFoundRyan/vellum/releases/download/v1.0.0/素笺 Setup 1.0.0.exe)
+- [素笺 Setup 1.0.0.exe]([https://github.com/NotFoundRyan/vellum/releases/download/v1.0.0/素笺 Setup 1.0.0.exe](https://github.com/NotFoundRyan/vellum/releases/download/v1.0.0/Setup.1.0.0.exe))
 
 ## 功能特色
 

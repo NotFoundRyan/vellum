@@ -2,7 +2,7 @@
 
 一款优雅的 Markdown 排版工具，专为微信公众号创作者打造。
 
-!\[页面展示]\([vellum/docs/pics/Page-Display.png at main · NotFoundRyan/vellum](https://github.com/NotFoundRyan/vellum/blob/main/docs/pics/Page-Display.png))
+![页面展示](https://raw.githubusercontent.com/NotFoundRyan/vellum/main/docs/pics/Page-Display.png)
 
 ## 功能特色
 
@@ -144,7 +144,6 @@
 - **Highlight.js** - 代码语法高亮
 - **Noto Serif SC** - 中文衬线字体
 - **JetBrains Mono** - 等宽代码字体
-
 
 ## 常见问题
 
